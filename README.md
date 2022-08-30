@@ -1,5 +1,5 @@
 #### Hi 👋, I'm Tracy Gregory
-##### **Sr. Mobile App Developer | Android, iOS, Flutter**
+#### **Sr. Mobile App Developer | Android, iOS, Flutter**
 
 [![](https://visitcount.itsvg.in/api?id=tracygregory&icon=0&color=0)](https://visitcount.itsvg.in)
 
